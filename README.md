@@ -10,8 +10,8 @@ This is my first Python project! The script generates a random password based on
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-generator.git
-    cd password-generator
+    git clone https://github.com/nimay-1/password_generator.git
+    cd password_generator
     ```
 
 2. Run the script:
