@@ -28,8 +28,5 @@ This is my first Python project! The script generates a random password based on
 ## Requirements
 - Python 3.x
 
-## License
-This project is not currently licensed. Please contact the author for permission to use the code.
-
 ## Author
 - nimay1 - https://github.com/nimay-1
